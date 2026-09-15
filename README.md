@@ -32,7 +32,7 @@ Follow these instructions to run the application on your local machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/ShallyKaushik/AI_Resume_Analyzer.git](https://github.com/ShallyKaushik/AI_Resume_Analyzer.git)
+git clone [https://github.com/niyatikaushik2005/AI_resume_analyzer](https://github.com/niyatikaushik2005/AI_resume_analyzer)
 cd AI_Resume_Analyzer
 
 ### 2. Create a Virtual Environment (Recommended)
@@ -69,4 +69,4 @@ Expand the "Resume Transcripts" section to view the cleaned, preprocessed text t
 ### 🔄 Development Lifecycle
 This project was developed using the Iterative SDLC Model, allowing for continuous refinement of the machine learning modules, scoring mechanisms, and user interface over multiple development cycles[cite: 1].
 
-## Made with ❤️ by Shelly Kaushik
+
