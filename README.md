@@ -5,6 +5,8 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-Machine_Learning-EE4C2C)
 ![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-F9AB00)
 
+Deployed Link:https://xdqqzegrfqmsujjstomvmc.streamlit.app/
+
 ## 📌 Project Overview
 The **AI Resume Analyzer** is an intelligent recruitment system designed to automate and enhance the resume screening process. Traditional Applicant Tracking Systems (ATS) often rely on rigid keyword matching, which can overlook qualified candidates[cite: 1]. 
 
