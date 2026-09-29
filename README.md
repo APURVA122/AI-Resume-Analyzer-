@@ -10,7 +10,7 @@ The **AI Resume Analyzer** is an intelligent recruitment system designed to auto
 
 This project solves that limitation by utilizing advanced **Natural Language Processing (NLP)** and **Transformer-based machine learning models (BERT)** to understand the contextual and semantic meaning of a candidate's skills and experience[cite: 1].
 
-project live link - https://airesumeanalyzer-3spiqw3xxqydkuxypthlhn.streamlit.app/
+project live link - 
 
 ## ✨ Key Features
 * **Intelligent ATS Scoring:** Uses BERT embeddings and cosine similarity to calculate a highly accurate compatibility score between a resume and a job description[cite: 1].
